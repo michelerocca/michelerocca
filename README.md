@@ -1,4 +1,4 @@
-## Hi there 👋
+Phd Student in Computer Science at Copenhagen University focussed on Physics-based Character Animation. More about my research coming soon...
 
 <!--
 **michelerocca/michelerocca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
